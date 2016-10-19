@@ -1,9 +1,9 @@
-#Simple Elm web app that displays Chuck Norris Jokes
+# Simple Elm web app that displays Chuck Norris Jokes
 
-###Viewable at:
+### Viewable at:
 http://chucknorris.cfapps.io/
 
-###Jokes from:
+### Jokes from:
 https://api.icndb.com
 
 
